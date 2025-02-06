@@ -1,0 +1,4 @@
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache

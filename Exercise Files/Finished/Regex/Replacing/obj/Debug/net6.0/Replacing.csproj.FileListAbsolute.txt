@@ -1,0 +1,14 @@
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Finished\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll
