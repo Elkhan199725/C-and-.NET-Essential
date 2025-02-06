@@ -3,6 +3,7 @@
 C# and .NET Essentials 🚀
 A Collection of Essential C# and .NET Concepts with Hands-on Examples
 
+![alt text](image.png)
 
 📌 Overview
 This repository is a structured collection of essential C# and .NET programming exercises, covering fundamental and advanced concepts. It is aimed at beginners and intermediate developers who want to build a strong foundation in C# and .NET development.
