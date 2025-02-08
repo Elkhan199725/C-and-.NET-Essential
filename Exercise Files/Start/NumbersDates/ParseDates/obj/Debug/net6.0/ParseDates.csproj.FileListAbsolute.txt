@@ -12,3 +12,4 @@ C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise 
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.sourcelink.json

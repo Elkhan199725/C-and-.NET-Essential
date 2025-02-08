@@ -79,7 +79,7 @@ Visual Studio / VS Code
 sh
 Copy
 Edit
-git clone https://github.com/YourUsername/CSharp-DotNet-Essentials.git
+git clone https://github.com/Elkhan199725/CSharp-DotNet-Essentials.git
 cd CSharp-DotNet-Essentials
 🔹 Run a Specific Example
 Navigate to a project folder and use:
