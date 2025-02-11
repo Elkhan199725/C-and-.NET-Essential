@@ -12,3 +12,4 @@ C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise 
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.pdb
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.genruntimeconfig.cache
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ref\ReadWriteFiles.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.sourcelink.json

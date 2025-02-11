@@ -12,3 +12,4 @@ C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise 
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.pdb
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.genruntimeconfig.cache
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\ref\RegexTimeouts.dll
+c:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.sourcelink.json

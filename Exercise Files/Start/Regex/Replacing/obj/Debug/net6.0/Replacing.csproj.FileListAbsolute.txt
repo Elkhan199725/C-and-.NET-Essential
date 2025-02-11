@@ -12,3 +12,4 @@ C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise 
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
 C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.sourcelink.json

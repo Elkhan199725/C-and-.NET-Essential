@@ -1,0 +1,5 @@
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.sourcelink.json

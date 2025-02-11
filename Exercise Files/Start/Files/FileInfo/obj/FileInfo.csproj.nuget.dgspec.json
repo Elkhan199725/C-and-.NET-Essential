@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj": {}
+    "c:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj": {
+    "c:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj",
+        "projectUniqueName": "c:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj",
         "projectName": "FileInfo",
-        "projectPath": "C:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj",
+        "projectPath": "c:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\FileInfo.csproj",
         "packagesPath": "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\obj\\",
+        "outputPath": "c:\\Users\\Elkhan Mammadli\\Desktop\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\Files\\FileInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
